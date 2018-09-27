@@ -1,1 +1,6 @@
-[Supriya Kumari Proposed Solution.pdf](https://github.com/don-rohit/Environmental-Sound-Classification-using-Deep-Learning/files/2425879/Supriya.Kumari.Proposed.Solution.pdf)
+![proposed solution-1](https://user-images.githubusercontent.com/22203782/46174132-d9030600-c2c5-11e8-83b6-56d40c4d53a4.jpg)
+![proposed solution-2](https://user-images.githubusercontent.com/22203782/46174136-d99b9c80-c2c5-11e8-80b0-20f4f49cb72c.jpg)
+![proposed solution-3](https://user-images.githubusercontent.com/22203782/46174127-d7394280-c2c5-11e8-8c3e-0e0e01953ec1.jpg)
+![proposed solution-4](https://user-images.githubusercontent.com/22203782/46174129-d7394280-c2c5-11e8-87d1-315eccaa1efb.jpg)
+![proposed solution-5](https://user-images.githubusercontent.com/22203782/46174130-d7d1d900-c2c5-11e8-8149-086c9846f3d7.jpg)
+![proposed solution-6](https://user-images.githubusercontent.com/22203782/46174131-d86a6f80-c2c5-11e8-82d0-45da6196340f.jpg)
